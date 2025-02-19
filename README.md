@@ -70,8 +70,5 @@ The evaluation metrics and visualizations can be accessed in the **results/** fo
 
 ---
 
-## 💡 Conclusion
-This project demonstrates the **potential of AI in medical imaging**, specifically in the field of **thyroid nodule classification**. By leveraging deep learning models, we aim to contribute to **early and accurate diagnosis**, ultimately reducing **unnecessary biopsies** and improving **patient outcomes**.
 
-📌 **Contributions, feedback, and collaborations are welcome!** 🚀
 
